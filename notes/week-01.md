@@ -26,7 +26,7 @@ See the running reference: `Concepts/Linux Cheat Sheet.md` in the vault — pull
 
 ## Key takeaways
 - Technique learned: connecting a device from away phsically by ssh, managing the git repo, creating a virtual linux machine (ubuntu) with ip adress
-- Tool learned: virtual machine, git, ssh
+- Tool learned: virtual machine, git, ssh, homwbrew, docker, colima, gh
 - Concept reinforced: basic commands, ls, man, --help, cat, touch etc
 
 ## Next
